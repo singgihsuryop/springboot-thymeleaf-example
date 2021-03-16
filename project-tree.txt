@@ -1,0 +1,16 @@
+springboot-thymeleaf-example/
+├── pom.xml
+└── src
+    └── main
+        ├── java
+        │   └── com
+        │       └── collectionsofcode
+        │           └── springboot
+        │               └── thymeleaf
+        │                   ├── Application.java
+        │                   └── controller
+        │                       └── HomeController.java
+        └── resources
+            ├── application.yml
+            └── templates
+                └── home.html
